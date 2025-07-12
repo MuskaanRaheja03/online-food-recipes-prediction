@@ -24,7 +24,9 @@ This project analyzes online food recipes using data science techniques to uncov
 ##  References
 
 - [Dataset Source](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0103EN-SkillsNetwork/labs/Module%202/recipes.csv)
-- [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
+- Ahn, Yong-Yeol et al. (2011). "Flavor network and the principles of food pairing." *Scientific Reports*. [Link](https://www.nature.com/articles/srep00196)
+- IBM Skills Network. (n.d.). *Data Science Professional Certificate Labs and Datasets*. Available at: [IBM Developer Skills Network](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0103EN-SkillsNetwork/labs/Module%202/recipes.csv)
+- This project is inspired by labs from the IBM Data Science Professional Certificate coursework.
 
 ---
 
